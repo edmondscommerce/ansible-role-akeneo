@@ -1,5 +1,6 @@
 Role Name
 =========
+## By [Edmonds Commerce](https://www.edmondscommerce.co.uk)
 
 A role to install all requirements to run Akeneo version 2.*
 
